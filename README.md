@@ -9,9 +9,24 @@
 
 * 3d_cad_data
 　トレーニングトレーサーの3DCADデータ
+  STPファイルとIGSファイルで保存しています。
+* 3d_print_parts
+　トレーニングトレーサーの3Dプリント部品のデータ
+  * TrainingTracer_Motor_Mount.stl
+    トレーニングトレーサーのモータマウントの3Dモデルです。
+  * TrainingTracer_Slider.stl
+    トレーニングトレーサーのスライダーの3Dモデルです。
+  * TrainingTracer_Wheel.stl
+    トレーニングトレーサーのホイールの3Dモデルです。
 * circuits
 　トレーニングトレーサーの回路図とNucleoの追加工マニュアル
-
+  * TrainingTracer_circuit.pdf
+    トレーニングトレーサーのメイン基板の回路図です。
+  * TrainingTracer_marker_circuit.pdf
+    トレーニングトレーサーのマーカーセンサ基板の回路図です。
+  * 出荷時のNucleoの追加工.pdf
+    トレーニングトレーサーのNucleoボードに行った追加工の情報です。
+    
 ## 開発について
 
 本リポジトリはオープンソースですが、開発はオープンではありません。  
